@@ -1,0 +1,11 @@
+{
+    "layout": {
+        "hspace": "1mm",
+        "vspace": "1mm",
+        "rows": "3",
+        "cols": "2"
+    },
+    "cuts": {
+        "type": "mousebites"
+    }
+}
